@@ -9,7 +9,7 @@ I want to build an monafit Tracker app that will include the following:
 * Activity logging and tracking
 * Team creation and management
 * Competitive leader board
-* Personalized workout suggestions
+* Personalized workout suggestions and reminders
 
 It should be in one app
 
